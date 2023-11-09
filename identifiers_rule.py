@@ -14,3 +14,12 @@
 # identifier.
 # 3.If the identifier starts and ends with two underscore symbols then the identifier is
 # language defined special name,which is also known as magic methods.
+
+
+
+#  True,False,None
+#  and, or ,not,is
+#  if,elif,else
+#  while,for,break,continue,return,in,yield
+#  try,except,finally,raise,assert
+#  import,from,as,class,def,pass,global,nonlocal,lambda,del,with
