@@ -14,3 +14,9 @@
 # 14) ValueError: invalid literal for int() with base 10: 'ten'
 # 15) >>> int("0B1111")
 # 16) ValueError: invalid literal for int() with base 10: '0B1111'
+
+
+##############################################################################
+# 1. We can convert from any type to int except complex type.
+# 2. If we want to convert str type to int type, compulsary str should contain only integral
+# value and should be specified in base-10
