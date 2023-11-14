@@ -9,3 +9,4 @@ h(name="prajjwal") # nam and name will be same
 def h(name="hello"):
     print(name)
 h() # if we dont have argument then it will take default argument
+# variable length mean packing unpacking system 
