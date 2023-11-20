@@ -8,4 +8,6 @@
 import os 
 from os import *
 
-print(os.path.isfile("sum1.py"))
+#print(os.path.isfile("sum1.py"))
+f = open("modules.py","a+")
+f.write("hello")
