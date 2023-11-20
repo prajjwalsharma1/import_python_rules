@@ -13,3 +13,4 @@ def f2():
 f2()
 
 print(globals())
+print(dir())
